@@ -17,7 +17,7 @@ public class Bank {
         accounts.put(current, 0);
         System.out.println("Your new account number is " + current);
         */
-        return 0;
+        return 1;
     }
 
     /**
